@@ -1,10 +1,10 @@
-Java Food Ordering System
+##Java Food Ordering System
 
 This project was developed as part of my university's Object-Oriented Programming (OOP) course using Java.
 
 The Food Ordering System is a Java-based application that allows users to browse available food items, select their preferred items, add them to an order, and customize their orders according to their preferences.
 
-Key Features
+##Key Features
 - View available food items.
 - Select preferred food items.
 - Add selected food items to an order.
